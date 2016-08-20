@@ -12,7 +12,7 @@ $(function(){
 	 */
 	$.extend({
 		"sc_ID": 'id_'+Math.round(Math.random()*100000),
-		"sc_API": 'http://takahamalifeart.com/weblib/api/gadget.php',
+		"sc_API": 'https://takahamalifeart.com/weblib/api/gadget.php',
 		"schedule": {"order":"0000-00-00", "ship":"0000-00-00", "deli":"0000-00-00"},
 		"workday": 4,
 		"deliveryday": 1,
